@@ -1,8 +1,7 @@
+streamlit
 numpy
 pandas
+matplotlib
+tensorflow==2.13.0
 scikit-learn
-tensorflow==2.15.0
-keras
 joblib
-streamlit
-h5py
